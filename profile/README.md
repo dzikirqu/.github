@@ -13,7 +13,7 @@
 | Imamuzzaki Abu Salam        | [@ImBIOS](https://github.com/ImBIOS)              | Member              | hi@imam.dev             | imamdev_#4164     |
 | Muhammad Dzaky Rahmanto     | [@dzakdzaks](https://github.com/dzakdzaks)        | Member              | dzakyrahmanto@gmail.com | dzaky#8609        |
 | Sutan Azhar                 | ...                                               | Only in Discord     | tbazhar9@gmail.com      | xhare#3351        |
-| Uwais Alqadri               | [@uwaisalqadri](https://github.com/uwaisalqadri)  | Member              | ...                     | uwais#9298        |
+| Uwais Alqadri               | [@uwaisalqadri](https://github.com/uwaisalqadri)  | Member              | uwaisalqadri@icloud.com | uwais#9298        |
 
 ### Reach Us
 <p>Join us on <a href="https://discord.gg/WJTzXv5bCW">Discord</a> if you got any problems or questions about our project, let us know.</p>
